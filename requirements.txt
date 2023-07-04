@@ -1,7 +1,7 @@
 certifi
 charset-normalizer
 click
-google-search
+googlesearch-python
 Flask
 gunicorn
 idna
